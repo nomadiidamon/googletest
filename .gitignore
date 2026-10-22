@@ -87,3 +87,10 @@ googlemock/gtest
 /CMakeCache.txt
 /ALL_BUILD.vcxproj.filters
 /ALL_BUILD.vcxproj
+
+
+# Vesper generated files
+bin/
+bin-int/
+*.vcxproj*
+*.vcxproj.filters*
